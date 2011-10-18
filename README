@@ -1,0 +1,27 @@
+Main Program : redditbot.py
+  This is a python file which will fetch json details from provided reddit URL 
+  and extract ID and UPS and create a HTML file and open in default browser.
+
+How to run:
+$ python redditbot.py redditurl
+
+Replace redditurl with original url like http://http://www.reddit.com/r/Python/\
+comments/l40if/should_we_be_using_xrange_rather_than_range/
+
+External Library:
+1.Bootstrap - CSS Library provided by Twitter .
+  URL - http://twitter.github.com/twitter
+
+2.JQuery - Google jquery api's.
+
+3.Tablesorter - Based on jquery table sorter .
+
+4.tablesorterscript.js - JS file to sort table.
+
+Requirements:
+1.Unix like system.
+2.python 2.7+(No Python 3.x)
+
+All the scripts are tested in GNU/Linux ubuntu 11.04 and expected to work in 
+Linux environment and cannot provide any information about behaviour in Windows.
+But it is expected to work .
